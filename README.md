@@ -1,1 +1,1 @@
-# cis190
+# cis190 resources.
